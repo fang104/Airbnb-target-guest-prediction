@@ -5,8 +5,8 @@ Featureset Exploration
 Status : Confirmed
 Guest name : Guest name
 Contact:guests contact information
-# of adults:discrete
-# of nights:discrete
+'# of adults':discrete
+'# of nights':discrete
 Start date : datetime
 End date :datetime
 Booked :datetime
