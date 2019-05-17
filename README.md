@@ -1,5 +1,5 @@
 # Airbnb-target-guest-prediction
-Finding good guests is very important for Airbnb host. You probably have read a lot of terrible new about stealing stuff, messing up the whole house by Airbnb guests. Those codes will help you to filter your guests, so you do not have to take too much risk while doing Airbnb business.
+Finding good guests is very important for Airbnb host. You probably have read a lot of terrible news about stealing stuff, messing up the whole house by Airbnb guests. Those codes will help you to filter your guests, so you do not have to take too much risk while doing Airbnb business.
 Featureset Exploration
 
 Status : Confirmed
